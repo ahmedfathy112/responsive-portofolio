@@ -61,6 +61,9 @@ body {
   color: #8a2e07;
 }
 @media screen and (max-width: 600px) {
+  .main-head {
+    width :90%;
+  }
   .main-head .nav-bar .logo {
     font-size: 11px;
     padding: 10px 50px;
